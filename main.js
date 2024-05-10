@@ -13,4 +13,4 @@ for (let i=0;i <botoes.lenght; i++){
     }
 }   
 const contadores = document.querySelectorAll("contador");
-contadores[]
+contadores
